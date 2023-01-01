@@ -1,0 +1,12 @@
+F:\projects\UnitTestingxUnitMoq\CalculatorApplications\bin\Debug\net6.0\CalculatorApplications.deps.json
+F:\projects\UnitTestingxUnitMoq\CalculatorApplications\bin\Debug\net6.0\CalculatorApplications.dll
+F:\projects\UnitTestingxUnitMoq\CalculatorApplications\bin\Debug\net6.0\CalculatorApplications.pdb
+F:\projects\UnitTestingxUnitMoq\CalculatorApplications\obj\Debug\net6.0\CalculatorApplications.csproj.AssemblyReference.cache
+F:\projects\UnitTestingxUnitMoq\CalculatorApplications\obj\Debug\net6.0\CalculatorApplications.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\UnitTestingxUnitMoq\CalculatorApplications\obj\Debug\net6.0\CalculatorApplications.AssemblyInfoInputs.cache
+F:\projects\UnitTestingxUnitMoq\CalculatorApplications\obj\Debug\net6.0\CalculatorApplications.AssemblyInfo.cs
+F:\projects\UnitTestingxUnitMoq\CalculatorApplications\obj\Debug\net6.0\CalculatorApplications.csproj.CoreCompileInputs.cache
+F:\projects\UnitTestingxUnitMoq\CalculatorApplications\obj\Debug\net6.0\CalculatorApplications.dll
+F:\projects\UnitTestingxUnitMoq\CalculatorApplications\obj\Debug\net6.0\refint\CalculatorApplications.dll
+F:\projects\UnitTestingxUnitMoq\CalculatorApplications\obj\Debug\net6.0\CalculatorApplications.pdb
+F:\projects\UnitTestingxUnitMoq\CalculatorApplications\obj\Debug\net6.0\ref\CalculatorApplications.dll

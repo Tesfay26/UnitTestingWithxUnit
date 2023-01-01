@@ -1,0 +1,15 @@
+F:\projects\UnitTestingxUnitMoq\CalculatorInfrastructure\bin\Debug\net6.0\CalculatorInfrastructure.deps.json
+F:\projects\UnitTestingxUnitMoq\CalculatorInfrastructure\bin\Debug\net6.0\CalculatorInfrastructure.dll
+F:\projects\UnitTestingxUnitMoq\CalculatorInfrastructure\bin\Debug\net6.0\CalculatorInfrastructure.pdb
+F:\projects\UnitTestingxUnitMoq\CalculatorInfrastructure\bin\Debug\net6.0\CalculatorDomain.dll
+F:\projects\UnitTestingxUnitMoq\CalculatorInfrastructure\bin\Debug\net6.0\CalculatorDomain.pdb
+F:\projects\UnitTestingxUnitMoq\CalculatorInfrastructure\obj\Debug\net6.0\CalculatorInfrastructure.csproj.AssemblyReference.cache
+F:\projects\UnitTestingxUnitMoq\CalculatorInfrastructure\obj\Debug\net6.0\CalculatorInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\UnitTestingxUnitMoq\CalculatorInfrastructure\obj\Debug\net6.0\CalculatorInfrastructure.AssemblyInfoInputs.cache
+F:\projects\UnitTestingxUnitMoq\CalculatorInfrastructure\obj\Debug\net6.0\CalculatorInfrastructure.AssemblyInfo.cs
+F:\projects\UnitTestingxUnitMoq\CalculatorInfrastructure\obj\Debug\net6.0\CalculatorInfrastructure.csproj.CoreCompileInputs.cache
+F:\projects\UnitTestingxUnitMoq\CalculatorInfrastructure\obj\Debug\net6.0\CalculatorInfrastructure.csproj.CopyComplete
+F:\projects\UnitTestingxUnitMoq\CalculatorInfrastructure\obj\Debug\net6.0\CalculatorInfrastructure.dll
+F:\projects\UnitTestingxUnitMoq\CalculatorInfrastructure\obj\Debug\net6.0\refint\CalculatorInfrastructure.dll
+F:\projects\UnitTestingxUnitMoq\CalculatorInfrastructure\obj\Debug\net6.0\CalculatorInfrastructure.pdb
+F:\projects\UnitTestingxUnitMoq\CalculatorInfrastructure\obj\Debug\net6.0\ref\CalculatorInfrastructure.dll

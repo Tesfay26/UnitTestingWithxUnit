@@ -1,0 +1,12 @@
+F:\projects\UnitTestingxUnitMoq\CalculatorDomain\bin\Debug\net6.0\CalculatorDomain.deps.json
+F:\projects\UnitTestingxUnitMoq\CalculatorDomain\bin\Debug\net6.0\CalculatorDomain.dll
+F:\projects\UnitTestingxUnitMoq\CalculatorDomain\bin\Debug\net6.0\CalculatorDomain.pdb
+F:\projects\UnitTestingxUnitMoq\CalculatorDomain\obj\Debug\net6.0\CalculatorDomain.csproj.AssemblyReference.cache
+F:\projects\UnitTestingxUnitMoq\CalculatorDomain\obj\Debug\net6.0\CalculatorDomain.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\UnitTestingxUnitMoq\CalculatorDomain\obj\Debug\net6.0\CalculatorDomain.AssemblyInfoInputs.cache
+F:\projects\UnitTestingxUnitMoq\CalculatorDomain\obj\Debug\net6.0\CalculatorDomain.AssemblyInfo.cs
+F:\projects\UnitTestingxUnitMoq\CalculatorDomain\obj\Debug\net6.0\CalculatorDomain.csproj.CoreCompileInputs.cache
+F:\projects\UnitTestingxUnitMoq\CalculatorDomain\obj\Debug\net6.0\CalculatorDomain.dll
+F:\projects\UnitTestingxUnitMoq\CalculatorDomain\obj\Debug\net6.0\refint\CalculatorDomain.dll
+F:\projects\UnitTestingxUnitMoq\CalculatorDomain\obj\Debug\net6.0\CalculatorDomain.pdb
+F:\projects\UnitTestingxUnitMoq\CalculatorDomain\obj\Debug\net6.0\ref\CalculatorDomain.dll

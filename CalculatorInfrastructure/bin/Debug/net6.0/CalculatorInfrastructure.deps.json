@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalculatorInfrastructure/1.0.0": {
+        "dependencies": {
+          "CalculatorDomain": "1.0.0"
+        },
+        "runtime": {
+          "CalculatorInfrastructure.dll": {}
+        }
+      },
+      "CalculatorDomain/1.0.0": {
+        "runtime": {
+          "CalculatorDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorInfrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculatorDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
